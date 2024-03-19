@@ -1,0 +1,13 @@
+---
+spring:
+  config:
+    activate:
+      on-profile: default 
+words: I,You,He,She,It
+
+---
+spring:
+   config:
+     activate:
+       on-profile: default 
+words: ran,knew,had,saw,bought
